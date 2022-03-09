@@ -16,8 +16,8 @@ But this was scrapped half way and there could still be remnants of that code.
 * The logo, colour palette, layout and images are all __not__ made by me.
 * The images are from google, the other stuff by my classmate. All i did was the HTML/CSS.
 
-# Site navigation
 Now i'll briefly explain the pages
+# Site navigation
 ## Home
 ![](https://media.discordapp.net/attachments/892668729241002024/951035582916747264/unknown.png?width=1238&height=625)
 Just the homepage that explained the website, i removed alot of personal info from it for privacy reasons.
