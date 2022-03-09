@@ -36,9 +36,11 @@ Ouch, the code is painful on this page. Here you could "order" whatever was list
 
 Well, it isn't a working shopping cart but it was supposed to be a placeholder page.
 This is a multi part page, the first prompt asks you if you want to continue shopping [YES] / [NO]
+
 ![](https://media.discordapp.net/attachments/892668729241002024/951035583621398578/unknown.png)
 
 Second prompt; Do you want to checkout? [I want to continue shopping] / [I want to checkout]
+
 ![](https://media.discordapp.net/attachments/892668729241002024/951035583814311988/unknown.png)
 
 Third prompt; How do you want to checkout? [Ideal] / [Paypal]
@@ -46,6 +48,7 @@ Third prompt; How do you want to checkout? [Ideal] / [Paypal]
 ![](https://media.discordapp.net/attachments/892668729241002024/951035584506384394/unknown.png)
 
 For IDeal you get prompted with a selection menu of which bank to use, they don't do anything and some options might be fake banks.
+
 ![](https://media.discordapp.net/attachments/892668729241002024/951035584741253160/unknown.png)
 
 clicking [complete] will send you to the loading page.
